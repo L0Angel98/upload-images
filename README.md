@@ -1,5 +1,5 @@
 First step
-npm install
+"npm install"
 
 Second step
-npm run dev
+"npm run dev"
